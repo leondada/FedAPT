@@ -1,5 +1,5 @@
 # FedAPT
-This repository is the implementation of "Federated Adaptive Prompt Tuning for Multi-domain Collaborative Learning". 
+This repository is the implementation of "Federated Adaptive Prompt Tuning for Multi-domain Collaborative Learning" in AAAI2024. 
 
 The original code has not been organized yet, and we plan to refactor the code in the future to improve readability.
 ## Requirements
